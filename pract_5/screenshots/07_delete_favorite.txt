@@ -1,0 +1,28 @@
+$ TOKEN=$(curl -s -X POST http://localhost:8080/login -H "Content-Type: application/json" -d "{\"username\":\"student\",\"password\":\"student123\"}" | jq -r .token)
+
+$ curl -s -i -X DELETE http://localhost:8080/users/me/prizes/6 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 200 OK
+Content-Length: 76
+Content-Type: application/json
+
+{
+    "message": "Премия 6 удалена из избранного"
+}
+$ curl -s -i -X DELETE http://localhost:8080/users/me/prizes/6 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 404 Not Found
+Content-Length: 60
+Content-Type: application/json
+
+{
+    "error": "Премии нет в избранном"
+}
+$ curl -s http://localhost:8080/users/me/prizes -H "Authorization: Bearer $TOKEN" | jq '[.[] | {addedAt, id: .prize.id, year: .prize.awardYear, category: .prize.category}]'
+[
+  {
+    "addedAt": "2026-10-22T00:52:18.117441Z",
+    "id": 8,
+    "year": 2023,
+    "category": "physics"
+  }
+]
+

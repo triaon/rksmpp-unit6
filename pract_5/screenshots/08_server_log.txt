@@ -1,0 +1,30 @@
+$ ./build/install/NobelServer/bin/NobelServer
+03:51:45.996 INFO  Application - Autoreload is disabled because the development mode is off.
+03:51:46.133 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+03:51:46.314 INFO  c.z.h.p.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4047d2d9
+03:51:46.314 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+kotlin-logging: initializing... active logger factory: Slf4jLoggerFactory
+03:51:46.849 INFO  Application - Application started in 0.925 seconds.
+03:51:47.232 INFO  Application - Responding at http://0.0.0.0:8080
+03:52:03.064 INFO  Application - Импортировано премий из api.nobelprize.org: 60
+03:52:08.424 INFO  Application - GET /prizes -> 200 OK [localhost, curl/8.7.1]
+03:52:17.703 INFO  Application - POST /login -> 200 OK [localhost, curl/8.7.1]
+03:52:17.793 INFO  Application - POST /login -> 401 Unauthorized [localhost, curl/8.7.1]
+03:52:17.815 INFO  Application - GET /prizes -> 200 OK [localhost, curl/8.7.1]
+03:52:17.838 INFO  Application - GET /prizes?year=2024&category=chemistry -> 200 OK [localhost, curl/8.7.1]
+03:52:17.860 INFO  Application - GET /users/me -> 401 Unauthorized [localhost, curl/8.7.1]
+03:52:17.871 INFO  Application - POST /users/me/prizes/8 -> 401 Unauthorized [localhost, curl/8.7.1]
+03:52:17.965 INFO  Application - POST /login -> 200 OK [localhost, curl/8.7.1]
+03:52:17.995 INFO  Application - GET /users/me -> 200 OK [localhost, curl/8.7.1]
+03:52:18.096 INFO  Application - POST /login -> 200 OK [localhost, curl/8.7.1]
+03:52:18.134 INFO  Application - POST /users/me/prizes/8 -> 201 Created [localhost, curl/8.7.1]
+03:52:18.154 INFO  Application - POST /users/me/prizes/6 -> 201 Created [localhost, curl/8.7.1]
+03:52:18.179 INFO  Application - POST /users/me/prizes/8 -> 409 Conflict [localhost, curl/8.7.1]
+03:52:18.197 INFO  Application - POST /users/me/prizes/999 -> 404 Not Found [localhost, curl/8.7.1]
+03:52:18.281 INFO  Application - POST /login -> 200 OK [localhost, curl/8.7.1]
+03:52:18.305 INFO  Application - GET /users/me/prizes -> 200 OK [localhost, curl/8.7.1]
+03:52:18.327 INFO  Application - GET /users/me -> 200 OK [localhost, curl/8.7.1]
+03:52:18.410 INFO  Application - POST /login -> 200 OK [localhost, curl/8.7.1]
+03:52:18.431 INFO  Application - DELETE /users/me/prizes/6 -> 200 OK [localhost, curl/8.7.1]
+03:52:18.449 INFO  Application - DELETE /users/me/prizes/6 -> 404 Not Found [localhost, curl/8.7.1]
+03:52:18.473 INFO  Application - GET /users/me/prizes -> 200 OK [localhost, curl/8.7.1]

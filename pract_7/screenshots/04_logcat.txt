@@ -1,0 +1,17 @@
+$ adb logcat -s HeartRateBle
+10-22 04:15:46.124  3674  3674 D HeartRateBle: Сканирование остановлено
+10-22 04:15:46.126  3674  3674 D HeartRateBle: Подключение к DA:4C:10:DE:00:02
+10-22 04:15:46.161  3674  3683 D HeartRateBle: onConnectionStateChange status=0 newState=2
+10-22 04:15:46.258  3674  3684 D HeartRateBle: Пульс: 68 bpm
+10-22 04:15:46.258  3674  3684 D HeartRateBle: CCC записан, status=0 — уведомления включены
+10-22 04:15:47.259  3674  3683 D HeartRateBle: Пульс: 69 bpm
+10-22 04:15:48.263  3674  3683 D HeartRateBle: Пульс: 75 bpm
+10-22 04:15:49.268  3674  3684 D HeartRateBle: Пульс: 72 bpm
+10-22 04:15:50.273  3674  3684 D HeartRateBle: Пульс: 75 bpm
+10-22 04:15:51.279  3674  3684 D HeartRateBle: Пульс: 70 bpm
+10-22 04:15:52.284  3674  3684 D HeartRateBle: Пульс: 70 bpm
+10-22 04:15:53.282  3674  3684 D HeartRateBle: Пульс: 71 bpm
+10-22 04:15:54.283  3674  3738 D HeartRateBle: Пульс: 76 bpm
+10-22 04:15:55.288  3674  3738 D HeartRateBle: Пульс: 76 bpm
+10-22 04:15:56.293  3674  3738 D HeartRateBle: Пульс: 72 bpm
+10-22 04:15:57.294  3674  3684 D HeartRateBle: Пульс: 72 bpm

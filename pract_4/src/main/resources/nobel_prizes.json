@@ -1,0 +1,1769 @@
+[
+  {
+    "awardYear": 2024,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2024-10-07",
+    "prizeAmount": 11000000,
+    "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2024/summary/",
+    "laureates": [
+      {
+        "id": 1035,
+        "fullName": "Victor Ambros",
+        "portion": "1/2",
+        "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+        "birthCountry": "USA",
+        "birthPlace": "Hanover, NH, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/330px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg"
+      },
+      {
+        "id": 1036,
+        "fullName": "Gary Ruvkun",
+        "portion": "1/2",
+        "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation",
+        "birthCountry": "USA",
+        "birthPlace": "Berkeley, CA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/330px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2024,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2024-10-08",
+    "prizeAmount": 11000000,
+    "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2024/summary/",
+    "laureates": [
+      {
+        "id": 1037,
+        "fullName": "John J. Hopfield",
+        "portion": "1/2",
+        "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks",
+        "birthCountry": "USA",
+        "birthPlace": "Chicago, IL, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/John_Hopfield_2016.jpg/330px-John_Hopfield_2016.jpg"
+      },
+      {
+        "id": 1038,
+        "fullName": "Geoffrey Hinton",
+        "portion": "1/2",
+        "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "London, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Geoffrey_Hinton_in_2026.jpg/330px-Geoffrey_Hinton_in_2026.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2024,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2024-10-11",
+    "prizeAmount": 11000000,
+    "motivation": "for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2024/summary/",
+    "laureates": [
+      {
+        "id": 1043,
+        "fullName": "Nihon Hidankyo",
+        "portion": "1",
+        "motivation": "for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again",
+        "birthCountry": "Japan",
+        "birthPlace": "Nagasaki, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hibakusha.jpg/330px-Hibakusha.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2024,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2024-10-10",
+    "prizeAmount": 11000000,
+    "motivation": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2024/summary/",
+    "laureates": [
+      {
+        "id": 1042,
+        "fullName": "Han Kang",
+        "portion": "1",
+        "motivation": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
+        "birthCountry": "South Korea",
+        "birthPlace": "Gwangju, South Korea",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Han_Kang%2C_2024_Nobel_Prize_Laureate_in_Literature_%28cropped%29.jpg/330px-Han_Kang%2C_2024_Nobel_Prize_Laureate_in_Literature_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2024,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2024-10-14",
+    "prizeAmount": 11000000,
+    "motivation": "for studies of how institutions are formed and affect prosperity",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2024/summary/",
+    "laureates": [
+      {
+        "id": 1044,
+        "fullName": "Daron Acemoglu",
+        "portion": "1/3",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "birthCountry": "Turkey",
+        "birthPlace": "Istanbul, Turkey",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Acemoglu_2016.png/330px-Acemoglu_2016.png"
+      },
+      {
+        "id": 1045,
+        "fullName": "Simon Henry Roberts Johnson",
+        "portion": "1/3",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Sheffield, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Simon_Johnson_on_Institute_for_New_Economic_Thinking.jpg/330px-Simon_Johnson_on_Institute_for_New_Economic_Thinking.jpg"
+      },
+      {
+        "id": 1046,
+        "fullName": "James A. Robinson",
+        "portion": "1/3",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "birthCountry": "",
+        "birthPlace": "",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/James_A._Robinson_in_Ukraine_-_2018_%28MUS3218%29_%28cropped%29.jpg/330px-James_A._Robinson_in_Ukraine_-_2018_%28MUS3218%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2024,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2024-10-09",
+    "prizeAmount": 11000000,
+    "motivation": "for computational protein design",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2024/summary/",
+    "laureates": [
+      {
+        "id": 1039,
+        "fullName": "David Baker",
+        "portion": "1/2",
+        "motivation": "for computational protein design",
+        "birthCountry": "USA",
+        "birthPlace": "Seattle, WA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DBaker_SparkPlugMtn_July2013.JPG/330px-DBaker_SparkPlugMtn_July2013.JPG"
+      },
+      {
+        "id": 1040,
+        "fullName": "Demis Hassabis",
+        "portion": "1/4",
+        "motivation": "for protein structure prediction",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "London, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg/330px-Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg"
+      },
+      {
+        "id": 1041,
+        "fullName": "John Jumper",
+        "portion": "1/4",
+        "motivation": "for protein structure prediction",
+        "birthCountry": "USA",
+        "birthPlace": "Little Rock, AR, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg/330px-John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2023-10-02",
+    "prizeAmount": 11000000,
+    "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2023/summary/",
+    "laureates": [
+      {
+        "id": 1024,
+        "fullName": "Katalin Karikó",
+        "portion": "1/2",
+        "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+        "birthCountry": "Hungary",
+        "birthPlace": "Szolnok, Hungary",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Katalin_Kariko_light_corrected.jpeg/330px-Katalin_Kariko_light_corrected.jpeg"
+      },
+      {
+        "id": 1025,
+        "fullName": "Drew Weissman",
+        "portion": "1/2",
+        "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+        "birthCountry": "USA",
+        "birthPlace": "Lexington, MA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Drew_Weissman_Life_Science_medalist.jpg/330px-Drew_Weissman_Life_Science_medalist.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2023-10-03",
+    "prizeAmount": 11000000,
+    "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2023/summary/",
+    "laureates": [
+      {
+        "id": 1026,
+        "fullName": "Pierre Agostini",
+        "portion": "1/3",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "birthCountry": "French protectorate of Tunisia",
+        "birthPlace": "Tunis, French protectorate of Tunisia (now Tunisia)",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Embassy_Sweden_2023_Nobel_Reception_%2853397591873%29_%28cropped%29.jpg/330px-US_Embassy_Sweden_2023_Nobel_Reception_%2853397591873%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 1027,
+        "fullName": "Ferenc Krausz",
+        "portion": "1/3",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "birthCountry": "Hungary",
+        "birthPlace": "Mór, Hungary",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ferenc_Krausz_%28cropped%29.jpg/330px-Ferenc_Krausz_%28cropped%29.jpg"
+      },
+      {
+        "id": 1028,
+        "fullName": "Anne L’Huillier",
+        "portion": "1/3",
+        "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+        "birthCountry": "France",
+        "birthPlace": "Paris, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Anne_LHuiller_01.JPG/330px-Anne_LHuiller_01.JPG"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2023-10-06",
+    "prizeAmount": 11000000,
+    "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2023/summary/",
+    "laureates": [
+      {
+        "id": 1033,
+        "fullName": "Narges Mohammadi",
+        "portion": "1",
+        "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+        "birthCountry": "Iran",
+        "birthPlace": "Zanjan, Iran",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Narges_Mohammadi_%28cropped%29.jpg/330px-Narges_Mohammadi_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2023-10-05",
+    "prizeAmount": 11000000,
+    "motivation": "for his innovative plays and prose which give voice to the unsayable",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2023/summary/",
+    "laureates": [
+      {
+        "id": 1032,
+        "fullName": "Jon Fosse",
+        "portion": "1",
+        "motivation": "for his innovative plays and prose which give voice to the unsayable",
+        "birthCountry": "Norway",
+        "birthPlace": "Haugesund, Norway",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Writer_Jon_Fosse.jpg/330px-Writer_Jon_Fosse.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2023-10-09",
+    "prizeAmount": 11000000,
+    "motivation": "for having advanced our understanding of women’s labour market outcomes",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2023/summary/",
+    "laureates": [
+      {
+        "id": 1034,
+        "fullName": "Claudia Goldin",
+        "portion": "1",
+        "motivation": "for having advanced our understanding of women’s labour market outcomes",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Claudia_Goldin_%28cropped%29.jpg/330px-Claudia_Goldin_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2023,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2023-10-04",
+    "prizeAmount": 11000000,
+    "motivation": "for the discovery and synthesis of quantum dots",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2023/summary/",
+    "laureates": [
+      {
+        "id": 1029,
+        "fullName": "Moungi G. Bawendi",
+        "portion": "1/3",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "birthCountry": "France",
+        "birthPlace": "Paris, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Embassy_Sweden_2023_Nobel_Reception_%2853390424864%29_%28cropped%29.jpg/330px-US_Embassy_Sweden_2023_Nobel_Reception_%2853390424864%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 1030,
+        "fullName": "Louis E. Brus",
+        "portion": "1/3",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "birthCountry": "USA",
+        "birthPlace": "Cleveland, OH, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Louis_E_Brus.jpg/330px-Louis_E_Brus.jpg"
+      },
+      {
+        "id": 1031,
+        "fullName": "Aleksey Yekimov ",
+        "portion": "1/3",
+        "motivation": "for the discovery and synthesis of quantum dots",
+        "birthCountry": "USSR",
+        "birthPlace": "Leningrad, USSR (now St. Petersburg, Russia)",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/US_Embassy_Sweden_2023_Nobel_Reception_%2853390424929%29_%28cropped%29.jpg/330px-US_Embassy_Sweden_2023_Nobel_Reception_%2853390424929%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2022-10-03",
+    "prizeAmount": 10000000,
+    "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2022/summary/",
+    "laureates": [
+      {
+        "id": 1011,
+        "fullName": "Svante Pääbo",
+        "portion": "1",
+        "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+        "birthCountry": "Sweden",
+        "birthPlace": "Stockholm, Sweden",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/330px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2022-10-04",
+    "prizeAmount": 10000000,
+    "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2022/summary/",
+    "laureates": [
+      {
+        "id": 1012,
+        "fullName": "Alain Aspect",
+        "portion": "1/3",
+        "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+        "birthCountry": "France",
+        "birthPlace": "Agen, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Alain_Aspect_%2826341660894%29_%28cropped%29.jpg/330px-Alain_Aspect_%2826341660894%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 1013,
+        "fullName": "John F. Clauser",
+        "portion": "1/3",
+        "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+        "birthCountry": "USA",
+        "birthPlace": "Pasadena, CA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Francis_Clauser_%28cropped%29.jpg/330px-John_Francis_Clauser_%28cropped%29.jpg"
+      },
+      {
+        "id": 1014,
+        "fullName": "Anton Zeilinger",
+        "portion": "1/3",
+        "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+        "birthCountry": "Austria",
+        "birthPlace": "Ried im Innkreis, Austria",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A._Zeilinger_%28cropped%29.jpg/330px-A._Zeilinger_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2022-10-07",
+    "prizeAmount": 10000000,
+    "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2022/summary/",
+    "laureates": [
+      {
+        "id": 1018,
+        "fullName": "Ales Bialiatski ",
+        "portion": "1/3",
+        "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
+        "birthCountry": "Russia",
+        "birthPlace": "Vyartsilya, Karelia, Russia",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alaksandr_Bialacki.jpg/330px-Alaksandr_Bialacki.jpg"
+      },
+      {
+        "id": 1019,
+        "fullName": "Memorial",
+        "portion": "1/3",
+        "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
+        "birthCountry": "Russia",
+        "birthPlace": "Moscow, Russia",
+        "portraitUrl": ""
+      },
+      {
+        "id": 1020,
+        "fullName": "Center for Civil Liberties",
+        "portion": "1/3",
+        "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
+        "birthCountry": "Ukraine",
+        "birthPlace": "Kyiv, Ukraine",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2022-10-06",
+    "prizeAmount": 10000000,
+    "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2022/summary/",
+    "laureates": [
+      {
+        "id": 1017,
+        "fullName": "Annie Ernaux",
+        "portion": "1",
+        "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
+        "birthCountry": "France",
+        "birthPlace": "Lillebonne, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Annie_Ernaux_in_2022_%285_av_11%29.jpg/330px-Annie_Ernaux_in_2022_%285_av_11%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2011-10-10",
+    "prizeAmount": 10000000,
+    "motivation": "for research on banks and financial crises",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2022/summary/",
+    "laureates": [
+      {
+        "id": 1021,
+        "fullName": "Ben S. Bernanke",
+        "portion": "1/3",
+        "motivation": "for research on banks and financial crises",
+        "birthCountry": "USA",
+        "birthPlace": "Augusta, GA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ben_Bernanke_official_portrait.jpg/330px-Ben_Bernanke_official_portrait.jpg"
+      },
+      {
+        "id": 1022,
+        "fullName": "Douglas W. Diamond",
+        "portion": "1/3",
+        "motivation": "for research on banks and financial crises",
+        "birthCountry": "USA",
+        "birthPlace": "Chicago, IL, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Douglas_Diamond.jpg/330px-Douglas_Diamond.jpg"
+      },
+      {
+        "id": 1023,
+        "fullName": "Philip H. Dybvig",
+        "portion": "1/3",
+        "motivation": "for research on banks and financial crises",
+        "birthCountry": "USA",
+        "birthPlace": "Gainesville, FL, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Philip_Dybvig_-_Nobel_2022_Group_-_52637857287_%28cropped%29.jpg/330px-Philip_Dybvig_-_Nobel_2022_Group_-_52637857287_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2022,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2022-10-05",
+    "prizeAmount": 10000000,
+    "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2022/summary/",
+    "laureates": [
+      {
+        "id": 1015,
+        "fullName": "Carolyn R. Bertozzi",
+        "portion": "1/3",
+        "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+        "birthCountry": "USA",
+        "birthPlace": "Boston, MA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Carolyn_Bertozzi_IMG_9384.jpg/330px-Carolyn_Bertozzi_IMG_9384.jpg"
+      },
+      {
+        "id": 1016,
+        "fullName": "Morten Meldal",
+        "portion": "1/3",
+        "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+        "birthCountry": "Denmark",
+        "birthPlace": "Copenhagen, Denmark",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MortenMeldal23.jpg/330px-MortenMeldal23.jpg"
+      },
+      {
+        "id": 743,
+        "fullName": "K. Barry Sharpless",
+        "portion": "1/3",
+        "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+        "birthCountry": "USA",
+        "birthPlace": "Philadelphia, PA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Barry_Sharpless_02.jpg/330px-Barry_Sharpless_02.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2021-10-04",
+    "prizeAmount": 10000000,
+    "motivation": "for their discoveries of receptors for temperature and touch",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2021/summary/",
+    "laureates": [
+      {
+        "id": 997,
+        "fullName": "David Julius",
+        "portion": "1/2",
+        "motivation": "for their discoveries of receptors for temperature and touch",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Davidjuliuswithsnake.jpg/330px-Davidjuliuswithsnake.jpg"
+      },
+      {
+        "id": 998,
+        "fullName": "Ardem Patapoutian",
+        "portion": "1/2",
+        "motivation": "for their discoveries of receptors for temperature and touch",
+        "birthCountry": "Lebanon",
+        "birthPlace": "Beirut, Lebanon",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ardem_Patapoutian_at_Scripps_in_2022_03.jpg/330px-Ardem_Patapoutian_at_Scripps_in_2022_03.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2021-10-05",
+    "prizeAmount": 10000000,
+    "motivation": "for groundbreaking contributions to our understanding of complex physical systems",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2021/summary/",
+    "laureates": [
+      {
+        "id": 999,
+        "fullName": "Syukuro Manabe",
+        "portion": "1/4",
+        "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
+        "birthCountry": "Japan",
+        "birthPlace": "Shingu, Ehime, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crafoord_Prize_EM1B0732_%2842329290061%29.jpg/330px-Crafoord_Prize_EM1B0732_%2842329290061%29.jpg"
+      },
+      {
+        "id": 1000,
+        "fullName": "Klaus Hasselmann",
+        "portion": "1/4",
+        "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
+        "birthCountry": "Germany",
+        "birthPlace": "Hamburg, Germany",
+        "portraitUrl": ""
+      },
+      {
+        "id": 1001,
+        "fullName": "Giorgio Parisi",
+        "portion": "1/2",
+        "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales",
+        "birthCountry": "Italy",
+        "birthPlace": "Rome, Italy",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Parisi_giorgio.jpg/330px-Parisi_giorgio.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2021-10-08",
+    "prizeAmount": 10000000,
+    "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2021/summary/",
+    "laureates": [
+      {
+        "id": 1005,
+        "fullName": "Maria Ressa",
+        "portion": "1/2",
+        "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
+        "birthCountry": "Philippines",
+        "birthPlace": "Manila, Philippines",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2025-10-19_Buchmesse_Maria_Ressa_%284%29.jpg/330px-2025-10-19_Buchmesse_Maria_Ressa_%284%29.jpg"
+      },
+      {
+        "id": 1006,
+        "fullName": "Dmitry Andreyevich Muratov",
+        "portion": "1/2",
+        "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
+        "birthCountry": "USSR",
+        "birthPlace": "Kubyshev, USSR (now Samara, Russia)",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dmitry_Muratov_Four_Freedoms_Award_2010.jpg/330px-Dmitry_Muratov_Four_Freedoms_Award_2010.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2021-10-07",
+    "prizeAmount": 10000000,
+    "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2021/summary/",
+    "laureates": [
+      {
+        "id": 1004,
+        "fullName": "Abdulrazak Gurnah",
+        "portion": "1",
+        "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
+        "birthCountry": "",
+        "birthPlace": "",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Abdulrazak_Gurnah_2025.jpg/330px-Abdulrazak_Gurnah_2025.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2021-10-11",
+    "prizeAmount": 10000000,
+    "motivation": "for his empirical contributions to labour economics",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2021/summary/",
+    "laureates": [
+      {
+        "id": 1007,
+        "fullName": "David Card",
+        "portion": "1/2",
+        "motivation": "for his empirical contributions to labour economics",
+        "birthCountry": "Canada",
+        "birthPlace": "Guelph, Canada",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/David_Card_-_Nobel_prize_interview_screenshot_%28cropped%29.png/330px-David_Card_-_Nobel_prize_interview_screenshot_%28cropped%29.png"
+      },
+      {
+        "id": 1008,
+        "fullName": "Joshua D. Angrist",
+        "portion": "1/4",
+        "motivation": "for their methodological contributions to the analysis of causal relationships",
+        "birthCountry": "USA",
+        "birthPlace": "Columbus, OH, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Joshua_Angrist_-_2011.jpg/330px-Joshua_Angrist_-_2011.jpg"
+      },
+      {
+        "id": 1009,
+        "fullName": "Guido W. Imbens",
+        "portion": "1/4",
+        "motivation": "for their methodological contributions to the analysis of causal relationships",
+        "birthCountry": "the Netherlands",
+        "birthPlace": "Geldrop, the Netherlands",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Guido_Imbens_Lemley_Lecture_1.jpg/330px-Guido_Imbens_Lemley_Lecture_1.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2021,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2021-10-06",
+    "prizeAmount": 10000000,
+    "motivation": "for the development of asymmetric organocatalysis",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2021/summary/",
+    "laureates": [
+      {
+        "id": 1002,
+        "fullName": "Benjamin List",
+        "portion": "1/2",
+        "motivation": "for the development of asymmetric organocatalysis",
+        "birthCountry": "Germany",
+        "birthPlace": "Frankfurt-on-the-Main, Germany",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Empfang_f%C3%BCr_Benjamin_List_im_Rathaus_K%C3%B6ln-7597-crop.jpg/330px-Empfang_f%C3%BCr_Benjamin_List_im_Rathaus_K%C3%B6ln-7597-crop.jpg"
+      },
+      {
+        "id": 1003,
+        "fullName": "David W.C. MacMillan",
+        "portion": "1/2",
+        "motivation": "for the development of asymmetric organocatalysis",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Bellshill, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/David_MacMillan.jpg/330px-David_MacMillan.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2020-10-05",
+    "prizeAmount": 10000000,
+    "motivation": "for the discovery of Hepatitis C virus",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2020/summary/",
+    "laureates": [
+      {
+        "id": 985,
+        "fullName": "Harvey J. Alter",
+        "portion": "1/3",
+        "motivation": "for the discovery of Hepatitis C virus",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Harvey_J._Alter.jpeg/330px-Harvey_J._Alter.jpeg"
+      },
+      {
+        "id": 986,
+        "fullName": "Michael Houghton",
+        "portion": "1/3",
+        "motivation": "for the discovery of Hepatitis C virus",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/330px-Prof_Michael_Houghton.jpg"
+      },
+      {
+        "id": 987,
+        "fullName": "Charles M. Rice",
+        "portion": "1/3",
+        "motivation": "for the discovery of Hepatitis C virus",
+        "birthCountry": "USA",
+        "birthPlace": "Sacramento, CA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Charles_M._Rice.jpg/330px-Charles_M._Rice.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2020-10-06",
+    "prizeAmount": 10000000,
+    "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2020/summary/",
+    "laureates": [
+      {
+        "id": 988,
+        "fullName": "Roger Penrose",
+        "portion": "1/2",
+        "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Colchester, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roger_Penrose_9560.JPG/330px-Roger_Penrose_9560.JPG"
+      },
+      {
+        "id": 989,
+        "fullName": "Reinhard Genzel",
+        "portion": "1/4",
+        "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
+        "birthCountry": "Germany",
+        "birthPlace": "Bad Homburg vor der Höhe, Germany",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reinhard_Genzel.jpg/330px-Reinhard_Genzel.jpg"
+      },
+      {
+        "id": 990,
+        "fullName": "Andrea Ghez",
+        "portion": "1/4",
+        "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Andrea_Ghez_%28cropped1%29.jpg/330px-Andrea_Ghez_%28cropped1%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2020-10-09",
+    "prizeAmount": 10000000,
+    "motivation": "for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2020/summary/",
+    "laureates": [
+      {
+        "id": 994,
+        "fullName": "World Food Programme",
+        "portion": "1",
+        "motivation": "for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict",
+        "birthCountry": "",
+        "birthPlace": "",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/World_Food_Programme.jpg/330px-World_Food_Programme.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2020-10-08",
+    "prizeAmount": 10000000,
+    "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2020/summary/",
+    "laureates": [
+      {
+        "id": 993,
+        "fullName": "Louise Glück",
+        "portion": "1",
+        "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Louise_Gl%C3%BCck_circa_1977.jpg/330px-Louise_Gl%C3%BCck_circa_1977.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2020-10-12",
+    "prizeAmount": 10000000,
+    "motivation": "for improvements to auction theory and inventions of new auction formats",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2020/summary/",
+    "laureates": [
+      {
+        "id": 995,
+        "fullName": "Paul R. Milgrom",
+        "portion": "1/2",
+        "motivation": "for improvements to auction theory and inventions of new auction formats",
+        "birthCountry": "USA",
+        "birthPlace": "Detroit, MI, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paul_Milgrom_Headshot.jpg/330px-Paul_Milgrom_Headshot.jpg"
+      },
+      {
+        "id": 996,
+        "fullName": "Robert B. Wilson",
+        "portion": "1/2",
+        "motivation": "for improvements to auction theory and inventions of new auction formats",
+        "birthCountry": "USA",
+        "birthPlace": "Geneva, NE, USA",
+        "portraitUrl": ""
+      }
+    ]
+  },
+  {
+    "awardYear": 2020,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2020-10-07",
+    "prizeAmount": 10000000,
+    "motivation": "for the development of a method for genome editing",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2020/summary/",
+    "laureates": [
+      {
+        "id": 991,
+        "fullName": "Emmanuelle Charpentier",
+        "portion": "1/2",
+        "motivation": "for the development of a method for genome editing",
+        "birthCountry": "France",
+        "birthPlace": "Juvisy-sur-Orge, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emmanuelle_Charpentier.jpg/330px-Emmanuelle_Charpentier.jpg"
+      },
+      {
+        "id": 992,
+        "fullName": "Jennifer A. Doudna",
+        "portion": "1/2",
+        "motivation": "for the development of a method for genome editing",
+        "birthCountry": "USA",
+        "birthPlace": "Washington, D.C., USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Professor_Jennifer_Doudna_ForMemRS_%28cropped%29.jpg/330px-Professor_Jennifer_Doudna_ForMemRS_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2019-10-07",
+    "prizeAmount": 9000000,
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2019/summary/",
+    "laureates": [
+      {
+        "id": 970,
+        "fullName": "William G. Kaelin Jr",
+        "portion": "1/3",
+        "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/William_G._Kaelin_Jr._UNIST_CGI_2019.jpg/330px-William_G._Kaelin_Jr._UNIST_CGI_2019.jpg"
+      },
+      {
+        "id": 971,
+        "fullName": "Sir Peter J. Ratcliffe",
+        "portion": "1/3",
+        "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Lancashire, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_J._Ratcliffe_%28cropped%29.jpg/330px-Peter_J._Ratcliffe_%28cropped%29.jpg"
+      },
+      {
+        "id": 972,
+        "fullName": "Gregg L. Semenza",
+        "portion": "1/3",
+        "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nobel_9_Dec_2019_012_copy_%2849204052292%29_%28cropped%29.jpg/330px-Nobel_9_Dec_2019_012_copy_%2849204052292%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2019-10-08",
+    "prizeAmount": 9000000,
+    "motivation": "for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2019/summary/",
+    "laureates": [
+      {
+        "id": 973,
+        "fullName": "James Peebles",
+        "portion": "1/2",
+        "motivation": "for theoretical discoveries in physical cosmology",
+        "birthCountry": "Canada",
+        "birthPlace": "Winnipeg, Canada",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jim_Peebles_2010.jpg/330px-Jim_Peebles_2010.jpg"
+      },
+      {
+        "id": 974,
+        "fullName": "Michel Mayor",
+        "portion": "1/4",
+        "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
+        "birthCountry": "Switzerland",
+        "birthPlace": "Lausanne, Switzerland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Michel_Mayor_astrophysicien.JPG/330px-Michel_Mayor_astrophysicien.JPG"
+      },
+      {
+        "id": 975,
+        "fullName": "Didier Queloz",
+        "portion": "1/4",
+        "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
+        "birthCountry": "Switzerland",
+        "birthPlace": "Geneva, Switzerland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Didier_Queloz%2C_2012_%28cropped%29.jpg/330px-Didier_Queloz%2C_2012_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2019-10-11",
+    "prizeAmount": 9000000,
+    "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2019/summary/",
+    "laureates": [
+      {
+        "id": 981,
+        "fullName": "Abiy Ahmed Ali",
+        "portion": "1",
+        "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
+        "birthCountry": "Ethiopia",
+        "birthPlace": "Beshasha, Ethiopia",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg/330px-Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2019-10-10",
+    "prizeAmount": 9000000,
+    "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2019/summary/",
+    "laureates": [
+      {
+        "id": 980,
+        "fullName": "Peter Handke",
+        "portion": "1",
+        "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
+        "birthCountry": "Austria",
+        "birthPlace": "Griffen, Austria",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peter-handke.jpg/330px-Peter-handke.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2019-10-14",
+    "prizeAmount": 9000000,
+    "motivation": "for their experimental approach to alleviating global poverty",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2019/summary/",
+    "laureates": [
+      {
+        "id": 982,
+        "fullName": "Abhijit Banerjee",
+        "portion": "1/3",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "birthCountry": "India",
+        "birthPlace": "Mumbai, India",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Abhijit_Banerjee_at_the_2025_Jaipur_Literature_Festival.jpg/330px-Abhijit_Banerjee_at_the_2025_Jaipur_Literature_Festival.jpg"
+      },
+      {
+        "id": 983,
+        "fullName": "Esther Duflo",
+        "portion": "1/3",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "birthCountry": "France",
+        "birthPlace": "Paris, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Esther_Duflo_-_Pop%21Tech_2009_-_001_%28cropped%29.jpg/330px-Esther_Duflo_-_Pop%21Tech_2009_-_001_%28cropped%29.jpg"
+      },
+      {
+        "id": 984,
+        "fullName": "Michael Kremer",
+        "portion": "1/3",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kremer_bio.jpg/330px-Kremer_bio.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2019,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2019-10-09",
+    "prizeAmount": 9000000,
+    "motivation": "for the development of lithium-ion batteries",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2019/summary/",
+    "laureates": [
+      {
+        "id": 976,
+        "fullName": "John B. Goodenough",
+        "portion": "1/3",
+        "motivation": "for the development of lithium-ion batteries",
+        "birthCountry": "Germany",
+        "birthPlace": "Jena, Germany",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg/330px-Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 977,
+        "fullName": "M. Stanley Whittingham",
+        "portion": "1/3",
+        "motivation": "for the development of lithium-ion batteries",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stanley_Whittingham_%28portrait%29_2020.jpg/330px-Stanley_Whittingham_%28portrait%29_2020.jpg"
+      },
+      {
+        "id": 978,
+        "fullName": "Akira Yoshino",
+        "portion": "1/3",
+        "motivation": "for the development of lithium-ion batteries",
+        "birthCountry": "Japan",
+        "birthPlace": "Suita, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Akira_Yoshino_20170920_%28cropped_2%29.jpg/330px-Akira_Yoshino_20170920_%28cropped_2%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2018-10-01",
+    "prizeAmount": 9000000,
+    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2018/summary/",
+    "laureates": [
+      {
+        "id": 958,
+        "fullName": "James P. Allison",
+        "portion": "1/2",
+        "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+        "birthCountry": "USA",
+        "birthPlace": "Alice, TX, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/James_P._Allison_EM1B5525_%2846207775441%29.jpg/330px-James_P._Allison_EM1B5525_%2846207775441%29.jpg"
+      },
+      {
+        "id": 959,
+        "fullName": "Tasuku Honjo",
+        "portion": "1/2",
+        "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+        "birthCountry": "Japan",
+        "birthPlace": "Kyoto, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tasuku_Honjo_201311.jpg/330px-Tasuku_Honjo_201311.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2018-10-02",
+    "prizeAmount": 9000000,
+    "motivation": "for groundbreaking inventions in the field of laser physics",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2018/summary/",
+    "laureates": [
+      {
+        "id": 960,
+        "fullName": "Arthur Ashkin",
+        "portion": "1/2",
+        "motivation": "for the optical tweezers and their application to biological systems",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Arthur_Ashkin_EM1B5678_%2844417135450%29.jpg/330px-Arthur_Ashkin_EM1B5678_%2844417135450%29.jpg"
+      },
+      {
+        "id": 961,
+        "fullName": "Gérard Mourou",
+        "portion": "1/4",
+        "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
+        "birthCountry": "France",
+        "birthPlace": "Albertville, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/G%C3%A9rard_Mourou%2C_2014.jpg/330px-G%C3%A9rard_Mourou%2C_2014.jpg"
+      },
+      {
+        "id": 962,
+        "fullName": "Donna Strickland",
+        "portion": "1/4",
+        "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
+        "birthCountry": "Canada",
+        "birthPlace": "Guelph, Canada",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Donna_Strickland_EM1B5760_%2846183560632%29_%28cropped%29.jpg/330px-Donna_Strickland_EM1B5760_%2846183560632%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2018-10-05",
+    "prizeAmount": 9000000,
+    "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2018/summary/",
+    "laureates": [
+      {
+        "id": 966,
+        "fullName": "Denis Mukwege",
+        "portion": "1/2",
+        "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+        "birthCountry": "Belgian Congo",
+        "birthPlace": "Bukavu, Belgian Congo (now Democratic Republic of the Congo)",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Denis_Mukwege_2018.jpg/330px-Denis_Mukwege_2018.jpg"
+      },
+      {
+        "id": 967,
+        "fullName": "Nadia Murad Basee Taha",
+        "portion": "1/2",
+        "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+        "birthCountry": "Iraq",
+        "birthPlace": "Kojo, Iraq",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nadia_Murad_2023_%28close-up%29.jpg/330px-Nadia_Murad_2023_%28close-up%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2019-10-10",
+    "prizeAmount": 9000000,
+    "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2018/summary/",
+    "laureates": [
+      {
+        "id": 979,
+        "fullName": "Olga Tokarczuk",
+        "portion": "1",
+        "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
+        "birthCountry": "Poland",
+        "birthPlace": "Sulechów, Poland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Olga_Tokarczuk_%282018%29.jpg/330px-Olga_Tokarczuk_%282018%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2018-10-01",
+    "prizeAmount": 9000000,
+    "motivation": "for integrating climate change into long-run macroeconomic analysis",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2018/summary/",
+    "laureates": [
+      {
+        "id": 968,
+        "fullName": "William D. Nordhaus",
+        "portion": "1/2",
+        "motivation": "for integrating climate change into long-run macroeconomic analysis",
+        "birthCountry": "USA",
+        "birthPlace": "Albuquerque, NM, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/William_Nordhaus_EM1B6005_%2846234137031%29.jpg/330px-William_Nordhaus_EM1B6005_%2846234137031%29.jpg"
+      },
+      {
+        "id": 969,
+        "fullName": "Paul M. Romer",
+        "portion": "1/2",
+        "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
+        "birthCountry": "USA",
+        "birthPlace": "Denver, CO, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Paul_Romer%2C_2005_%28cropped%29.jpg/330px-Paul_Romer%2C_2005_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2018,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2018-10-03",
+    "prizeAmount": 9000000,
+    "motivation": "for the directed evolution of enzymes",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2018/summary/",
+    "laureates": [
+      {
+        "id": 963,
+        "fullName": "Frances H. Arnold",
+        "portion": "1/2",
+        "motivation": "for the directed evolution of enzymes",
+        "birthCountry": "USA",
+        "birthPlace": "Pittsburgh, PA, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frances_Arnold_in_2021_at_Caltech_01_%28cropped%29.jpg/330px-Frances_Arnold_in_2021_at_Caltech_01_%28cropped%29.jpg"
+      },
+      {
+        "id": 964,
+        "fullName": "George P. Smith",
+        "portion": "1/4",
+        "motivation": "for the phage display of peptides and antibodies",
+        "birthCountry": "USA",
+        "birthPlace": "Norwalk, CT, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/George_Smith_EM1B5987_%2831295398907%29.jpg/330px-George_Smith_EM1B5987_%2831295398907%29.jpg"
+      },
+      {
+        "id": 965,
+        "fullName": "Sir Gregory P. Winter",
+        "portion": "1/4",
+        "motivation": "for the phage display of peptides and antibodies",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Leicester, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gregory_Winter%2C_2016_%28cropped%29.jpg/330px-Gregory_Winter%2C_2016_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2017-10-02",
+    "prizeAmount": 9000000,
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2017/summary/",
+    "laureates": [
+      {
+        "id": 938,
+        "fullName": "Jeffrey C. Hall",
+        "portion": "1/3",
+        "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+        "birthCountry": "USA",
+        "birthPlace": "New York, NY, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jeffrey_C._Hall_D81_4349_%2825006040668%29.jpg/330px-Jeffrey_C._Hall_D81_4349_%2825006040668%29.jpg"
+      },
+      {
+        "id": 939,
+        "fullName": "Michael Rosbash",
+        "portion": "1/3",
+        "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+        "birthCountry": "USA",
+        "birthPlace": "Kansas City, MO, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Michael_Rosbash%2C_2017_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/330px-Michael_Rosbash%2C_2017_Nobel_Laureate_in_Medicine_%28cropped%29.jpg"
+      },
+      {
+        "id": 940,
+        "fullName": "Michael W. Young",
+        "portion": "1/3",
+        "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+        "birthCountry": "USA",
+        "birthPlace": "Miami, FL, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_W._Young_D81_4345_%2838162439194%29.jpg/330px-Michael_W._Young_D81_4345_%2838162439194%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2017-10-03",
+    "prizeAmount": 9000000,
+    "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2017/summary/",
+    "laureates": [
+      {
+        "id": 941,
+        "fullName": "Rainer Weiss",
+        "portion": "1/2",
+        "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+        "birthCountry": "Germany",
+        "birthPlace": "Berlin, Germany",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rainer_Weiss_EM1B8841_%2824027015857%29.jpg/330px-Rainer_Weiss_EM1B8841_%2824027015857%29.jpg"
+      },
+      {
+        "id": 942,
+        "fullName": "Barry C. Barish",
+        "portion": "1/4",
+        "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+        "birthCountry": "USA",
+        "birthPlace": "Omaha, NE, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/05-0367-92D.hr.jpg/330px-05-0367-92D.hr.jpg"
+      },
+      {
+        "id": 943,
+        "fullName": "Kip S. Thorne",
+        "portion": "1/4",
+        "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+        "birthCountry": "USA",
+        "birthPlace": "Logan, UT, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kip_Thorne_at_Caltech.jpg/330px-Kip_Thorne_at_Caltech.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2017-10-06",
+    "prizeAmount": 9000000,
+    "motivation": "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2017/summary/",
+    "laureates": [
+      {
+        "id": 948,
+        "fullName": "International Campaign to Abolish Nuclear Weapons",
+        "portion": "1",
+        "motivation": "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons",
+        "birthCountry": "Australia",
+        "birthPlace": "Australia",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Global_Parliamentary_Appeal_for_a_Nuclear_Weapons_Ban.jpg/330px-Global_Parliamentary_Appeal_for_a_Nuclear_Weapons_Ban.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2017-10-05",
+    "prizeAmount": 9000000,
+    "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2017/summary/",
+    "laureates": [
+      {
+        "id": 947,
+        "fullName": "Kazuo Ishiguro",
+        "portion": "1",
+        "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
+        "birthCountry": "Japan",
+        "birthPlace": "Nagasaki, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kazuo_Ishiguro_by_Kubik.JPG/330px-Kazuo_Ishiguro_by_Kubik.JPG"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2017-10-09",
+    "prizeAmount": 9000000,
+    "motivation": "for his contributions to behavioural economics",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2017/summary/",
+    "laureates": [
+      {
+        "id": 949,
+        "fullName": "Richard H. Thaler",
+        "portion": "1",
+        "motivation": "for his contributions to behavioural economics",
+        "birthCountry": "USA",
+        "birthPlace": "East Orange, NJ, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richard_Thaler_Chatham.jpg/330px-Richard_Thaler_Chatham.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2017,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2017-10-04",
+    "prizeAmount": 9000000,
+    "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2017/summary/",
+    "laureates": [
+      {
+        "id": 944,
+        "fullName": "Jacques Dubochet",
+        "portion": "1/3",
+        "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+        "birthCountry": "Switzerland",
+        "birthPlace": "Aigle, Switzerland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jacques_Dubochet%2C_2017_%28cropped%29.jpg/330px-Jacques_Dubochet%2C_2017_%28cropped%29.jpg"
+      },
+      {
+        "id": 945,
+        "fullName": "Joachim Frank",
+        "portion": "1/3",
+        "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+        "birthCountry": "Germany",
+        "birthPlace": "Siegen, Germany",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Joachim_Frank_EM1B8792_%2827115577469%29.jpg/330px-Joachim_Frank_EM1B8792_%2827115577469%29.jpg"
+      },
+      {
+        "id": 946,
+        "fullName": "Richard Henderson",
+        "portion": "1/3",
+        "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+        "birthCountry": "Scotland",
+        "birthPlace": "Edinburgh, Scotland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Richard_Henderson_D81_4486_%2838005042695%29.jpg/330px-Richard_Henderson_D81_4486_%2838005042695%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2016-10-03",
+    "prizeAmount": 8000000,
+    "motivation": "for his discoveries of mechanisms for autophagy",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2016/summary/",
+    "laureates": [
+      {
+        "id": 927,
+        "fullName": "Yoshinori Ohsumi",
+        "portion": "1",
+        "motivation": "for his discoveries of mechanisms for autophagy",
+        "birthCountry": "Japan",
+        "birthPlace": "Fukuoka, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nobel_Laureates_7428_%2830679389523%29_%28cropped%29.jpg/330px-Nobel_Laureates_7428_%2830679389523%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2016-10-04",
+    "prizeAmount": 8000000,
+    "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2016/summary/",
+    "laureates": [
+      {
+        "id": 928,
+        "fullName": "David J. Thouless",
+        "portion": "1/2",
+        "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Bearsden, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DavidThouless_1995_UW.jpg/330px-DavidThouless_1995_UW.jpg"
+      },
+      {
+        "id": 929,
+        "fullName": "F. Duncan M. Haldane",
+        "portion": "1/4",
+        "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "London, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Duncan_Haldane.jpg/330px-Duncan_Haldane.jpg"
+      },
+      {
+        "id": 930,
+        "fullName": "J. Michael Kosterlitz",
+        "portion": "1/4",
+        "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Aberdeen, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2016_Nobel_Reception_US_Embassy_Sweden_%2831557185216%29_%28cropped%29.jpg/330px-2016_Nobel_Reception_US_Embassy_Sweden_%2831557185216%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2016-10-07",
+    "prizeAmount": 8000000,
+    "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2016/summary/",
+    "laureates": [
+      {
+        "id": 934,
+        "fullName": "Juan Manuel Santos",
+        "portion": "1",
+        "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end",
+        "birthCountry": "Colombia",
+        "birthPlace": "Bogotá, Colombia",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Juan_Manuel_Santos_and_Lula_%28cropped%29.jpg/330px-Juan_Manuel_Santos_and_Lula_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2016-10-13",
+    "prizeAmount": 8000000,
+    "motivation": "for having created new poetic expressions within the great American song tradition",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2016/summary/",
+    "laureates": [
+      {
+        "id": 937,
+        "fullName": "Bob Dylan",
+        "portion": "1",
+        "motivation": "for having created new poetic expressions within the great American song tradition",
+        "birthCountry": "USA",
+        "birthPlace": "Duluth, MN, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2016-10-10",
+    "prizeAmount": 8000000,
+    "motivation": "for their contributions to contract theory",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2016/summary/",
+    "laureates": [
+      {
+        "id": 935,
+        "fullName": "Oliver Hart",
+        "portion": "1/2",
+        "motivation": "for their contributions to contract theory",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "London, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nobel_Laureates_Oliver_Hart_2016_%2831341903482%29.jpg/330px-Nobel_Laureates_Oliver_Hart_2016_%2831341903482%29.jpg"
+      },
+      {
+        "id": 936,
+        "fullName": "Bengt Holmström",
+        "portion": "1/2",
+        "motivation": "for their contributions to contract theory",
+        "birthCountry": "Finland",
+        "birthPlace": "Helsinki, Finland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bengt_Holmstr%C3%B6m.jpg/330px-Bengt_Holmstr%C3%B6m.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2016,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2016-10-05",
+    "prizeAmount": 8000000,
+    "motivation": "for the design and synthesis of molecular machines",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2016/summary/",
+    "laureates": [
+      {
+        "id": 931,
+        "fullName": "Jean-Pierre Sauvage",
+        "portion": "1/3",
+        "motivation": "for the design and synthesis of molecular machines",
+        "birthCountry": "France",
+        "birthPlace": "Paris, France",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jean-Pierre_Sauvage.jpg/330px-Jean-Pierre_Sauvage.jpg"
+      },
+      {
+        "id": 932,
+        "fullName": "Sir J. Fraser Stoddart",
+        "portion": "1/3",
+        "motivation": "for the design and synthesis of molecular machines",
+        "birthCountry": "United Kingdom",
+        "birthPlace": "Edinburgh, United Kingdom",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nobel_Laureates_Fraser_Stoddart_2016_%2831117136180%29.jpg/330px-Nobel_Laureates_Fraser_Stoddart_2016_%2831117136180%29.jpg"
+      },
+      {
+        "id": 933,
+        "fullName": "Bernard L. Feringa",
+        "portion": "1/3",
+        "motivation": "for the design and synthesis of molecular machines",
+        "birthCountry": "the Netherlands",
+        "birthPlace": "Barger-Compascuum, the Netherlands",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FeringaWiki.jpg/330px-FeringaWiki.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "medicine",
+    "categoryFullName": "The Nobel Prize in Physiology or Medicine",
+    "dateAwarded": "2015-10-05",
+    "prizeAmount": 8000000,
+    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+    "detailLink": "https://www.nobelprize.org/prizes/medicine/2015/summary/",
+    "laureates": [
+      {
+        "id": 916,
+        "fullName": "William C. Campbell",
+        "portion": "1/4",
+        "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+        "birthCountry": "Ireland",
+        "birthPlace": "Ramelton, Ireland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/William_C._Campbell_4983-1-2015.jpg/330px-William_C._Campbell_4983-1-2015.jpg"
+      },
+      {
+        "id": 917,
+        "fullName": "Satoshi Ōmura",
+        "portion": "1/4",
+        "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+        "birthCountry": "Japan",
+        "birthPlace": "Yamanashi Prefecture, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Satoshi_%C5%8Cmura_5040-2015.jpg/330px-Satoshi_%C5%8Cmura_5040-2015.jpg"
+      },
+      {
+        "id": 918,
+        "fullName": "Tu Youyou",
+        "portion": "1/2",
+        "motivation": "for her discoveries concerning a novel therapy against Malaria",
+        "birthCountry": "China",
+        "birthPlace": "Zhejiang Ningbo, China",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D810_4987_Tu_Youyou%2C_medicine_%2822945001843%29_%28cropped%29.jpg/330px-D810_4987_Tu_Youyou%2C_medicine_%2822945001843%29_%28cropped%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "physics",
+    "categoryFullName": "The Nobel Prize in Physics",
+    "dateAwarded": "2015-10-06",
+    "prizeAmount": 8000000,
+    "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+    "detailLink": "https://www.nobelprize.org/prizes/physics/2015/summary/",
+    "laureates": [
+      {
+        "id": 919,
+        "fullName": "Takaaki Kajita",
+        "portion": "1/2",
+        "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+        "birthCountry": "Japan",
+        "birthPlace": "Higashimatsuyama, Japan",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Takaaki_Kajita_cropped_1_Takaaki_Kajita_202010.jpg/330px-Takaaki_Kajita_cropped_1_Takaaki_Kajita_202010.jpg"
+      },
+      {
+        "id": 920,
+        "fullName": "Arthur B. McDonald",
+        "portion": "1/2",
+        "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+        "birthCountry": "Canada",
+        "birthPlace": "Sydney, Nova Scotia, Canada",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Arthur_B._McDonald_5139-2015.jpg/330px-Arthur_B._McDonald_5139-2015.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "peace",
+    "categoryFullName": "The Nobel Peace Prize",
+    "dateAwarded": "2015-10-09",
+    "prizeAmount": 8000000,
+    "motivation": "for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011",
+    "detailLink": "https://www.nobelprize.org/prizes/peace/2015/summary/",
+    "laureates": [
+      {
+        "id": 925,
+        "fullName": "National Dialogue Quartet",
+        "portion": "1",
+        "motivation": "for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011",
+        "birthCountry": "",
+        "birthPlace": "",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tunisian_National_Dialogue_Quartet_Visit_to_Vienna_March_2016_%2825285867191%29.jpg/330px-Tunisian_National_Dialogue_Quartet_Visit_to_Vienna_March_2016_%2825285867191%29.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "literature",
+    "categoryFullName": "The Nobel Prize in Literature",
+    "dateAwarded": "2015-10-08",
+    "prizeAmount": 8000000,
+    "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
+    "detailLink": "https://www.nobelprize.org/prizes/literature/2015/summary/",
+    "laureates": [
+      {
+        "id": 924,
+        "fullName": "Svetlana Alexievich",
+        "portion": "1",
+        "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
+        "birthCountry": "Ukraine",
+        "birthPlace": "Ivano-Frankivsk, Ukraine",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Svetlana_Alexievich_asv2024-01.jpg/330px-Svetlana_Alexievich_asv2024-01.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "economics",
+    "categoryFullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "dateAwarded": "2015-10-12",
+    "prizeAmount": 8000000,
+    "motivation": "for his analysis of consumption, poverty, and welfare",
+    "detailLink": "https://www.nobelprize.org/prizes/economic-sciences/2015/summary/",
+    "laureates": [
+      {
+        "id": 926,
+        "fullName": "Angus Deaton",
+        "portion": "1",
+        "motivation": "for his analysis of consumption, poverty, and welfare",
+        "birthCountry": "Scotland",
+        "birthPlace": "Edinburgh, Scotland",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Angus_Deaton_0244.jpg/330px-Angus_Deaton_0244.jpg"
+      }
+    ]
+  },
+  {
+    "awardYear": 2015,
+    "category": "chemistry",
+    "categoryFullName": "The Nobel Prize in Chemistry",
+    "dateAwarded": "2015-10-07",
+    "prizeAmount": 8000000,
+    "motivation": "for mechanistic studies of DNA repair",
+    "detailLink": "https://www.nobelprize.org/prizes/chemistry/2015/summary/",
+    "laureates": [
+      {
+        "id": 921,
+        "fullName": "Tomas Lindahl",
+        "portion": "1/3",
+        "motivation": "for mechanistic studies of DNA repair",
+        "birthCountry": "Sweden",
+        "birthPlace": "Stockholm, Sweden",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tomas_Lindahl_0113.jpg/330px-Tomas_Lindahl_0113.jpg"
+      },
+      {
+        "id": 922,
+        "fullName": "Paul Modrich",
+        "portion": "1/3",
+        "motivation": "for mechanistic studies of DNA repair",
+        "birthCountry": "USA",
+        "birthPlace": "Raton, NM, USA",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paul_L._Modrich_0116.jpg/330px-Paul_L._Modrich_0116.jpg"
+      },
+      {
+        "id": 923,
+        "fullName": "Aziz Sancar",
+        "portion": "1/3",
+        "motivation": "for mechanistic studies of DNA repair",
+        "birthCountry": "Turkey",
+        "birthPlace": "Savur, Turkey",
+        "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aziz_Sancar_0060.jpg/330px-Aziz_Sancar_0060.jpg"
+      }
+    ]
+  }
+]

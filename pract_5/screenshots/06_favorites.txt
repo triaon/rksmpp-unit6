@@ -1,0 +1,56 @@
+$ TOKEN=$(curl -s -X POST http://localhost:8080/login -H "Content-Type: application/json" -d "{\"username\":\"student\",\"password\":\"student123\"}" | jq -r .token)
+
+$ curl -s -i http://localhost:8080/users/me/prizes -H "Authorization: Bearer $TOKEN" | head -n 45
+HTTP/1.1 200 OK
+Content-Length: 4587
+Content-Type: application/json
+
+[
+    {
+        "addedAt": "2026-10-22T00:52:18.150352Z",
+        "prize": {
+            "id": 6,
+            "awardYear": 2024,
+            "category": "chemistry",
+            "categoryFullName": "The Nobel Prize in Chemistry",
+            "dateAwarded": "2024-10-09",
+            "prizeAmount": 11000000,
+            "motivation": "for computational protein design",
+            "detailLink": "https://www.nobelprize.org/prizes/chemistry/2024/summary/",
+            "laureates": [
+                {
+                    "id": 1039,
+                    "fullName": "David Baker",
+                    "portion": "1/2",
+                    "motivation": "for computational protein design",
+                    "birthCountry": "USA",
+                    "birthPlace": "Seattle, WA, USA",
+                    "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DBaker_SparkPlugMtn_July2013.JPG/330px-DBaker_SparkPlugMtn_July2013.JPG"
+                },
+                {
+                    "id": 1040,
+                    "fullName": "Demis Hassabis",
+                    "portion": "1/4",
+                    "motivation": "for protein structure prediction",
+                    "birthCountry": "United Kingdom",
+                    "birthPlace": "London, United Kingdom",
+                    "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg/330px-Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg"
+                },
+                {
+                    "id": 1041,
+                    "fullName": "John Jumper",
+                    "portion": "1/4",
+                    "motivation": "for protein structure prediction",
+                    "birthCountry": "USA",
+                    "birthPlace": "Little Rock, AR, USA",
+                    "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg/330px-John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg"
+                }
+            ]
+
+$ curl -s http://localhost:8080/users/me -H "Authorization: Bearer $TOKEN"
+{
+    "id": 1,
+    "username": "student",
+    "role": "user",
+    "favoritesCount": 2
+}

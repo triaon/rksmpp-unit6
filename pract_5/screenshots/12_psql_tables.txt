@@ -1,0 +1,59 @@
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c '\dt'
+          List of relations
+ Schema |    Name     | Type  | Owner 
+--------+-------------+-------+-------
+ public | laureates   | table | nobel
+ public | prizes      | table | nobel
+ public | user_prizes | table | nobel
+ public | users       | table | nobel
+(4 rows)
+
+
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c 'SELECT id, username, left(password_hash, 29) AS password_hash, role FROM users'
+ id | username |         password_hash         | role  
+----+----------+-------------------------------+-------
+  1 | student  | $2a$10$d5IDrGagGk/qTtBFVOCdr. | user
+  2 | admin    | $2a$10$PkTVpjdrAjhah4ZSEFJe.O | admin
+(2 rows)
+
+
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c 'SELECT id, award_year, category, left(full_name, 40) AS full_name, left(motivation, 45) AS motivation FROM prizes ORDER BY id LIMIT 8'
+ id | award_year |  category  |                full_name                 |                  motivation                   
+----+------------+------------+------------------------------------------+-----------------------------------------------
+  1 |       2024 | medicine   | The Nobel Prize in Physiology or Medicin | for the discovery of microRNA and its role in
+  2 |       2024 | physics    | The Nobel Prize in Physics               | for foundational discoveries and inventions t
+  3 |       2024 | peace      | The Nobel Peace Prize                    | for its efforts to achieve a world free of nu
+  4 |       2024 | literature | The Nobel Prize in Literature            | for her intense poetic prose that confronts h
+  5 |       2024 | economics  | The Sveriges Riksbank Prize in Economic  | for studies of how institutions are formed an
+  6 |       2024 | chemistry  | The Nobel Prize in Chemistry             | for computational protein design
+  7 |       2023 | medicine   | The Nobel Prize in Physiology or Medicin | for their discoveries concerning nucleoside b
+  8 |       2023 | physics    | The Nobel Prize in Physics               | for experimental methods that generate attose
+(8 rows)
+
+
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c 'SELECT id, prize_id, full_name, portion, birth_country FROM laureates WHERE prize_id IN (6, 8) ORDER BY id'
+ id | prize_id |    full_name    | portion |         birth_country          
+----+----------+-----------------+---------+--------------------------------
+ 10 |        6 | David Baker     | 1/2     | USA
+ 11 |        6 | Demis Hassabis  | 1/4     | United Kingdom
+ 12 |        6 | John Jumper     | 1/4     | USA
+ 15 |        8 | Pierre Agostini | 1/3     | French protectorate of Tunisia
+ 16 |        8 | Ferenc Krausz   | 1/3     | Hungary
+ 17 |        8 | Anne L’Huillier | 1/3     | France
+(6 rows)
+
+
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c 'SELECT up.user_id, u.username, up.prize_id, p.award_year, p.category, up.added_at FROM user_prizes up JOIN users u ON u.id = up.user_id JOIN prizes p ON p.id = up.prize_id'
+ user_id | username | prize_id | award_year | category |          added_at          
+---------+----------+----------+------------+----------+----------------------------
+       1 | student  |        8 |       2023 | physics  | 2026-10-22 03:52:18.117441
+(1 row)
+
+
+$ docker exec rksmpp-pg psql -U nobel -d nobel -c 'SELECT (SELECT count(*) FROM prizes) AS prizes, (SELECT count(*) FROM laureates) AS laureates, (SELECT count(*) FROM users) AS users'
+ prizes | laureates | users 
+--------+-----------+-------
+     60 |       123 |     2
+(1 row)
+
+

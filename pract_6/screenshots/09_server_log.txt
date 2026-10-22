@@ -1,0 +1,22 @@
+$ ./build/install/NobelServer/bin/NobelServer   # сервер из задания 5
+03:57:26.896 INFO  Application - Autoreload is disabled because the development mode is off.
+03:57:27.273 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+03:57:27.527 INFO  c.z.h.p.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4beaf6bd
+03:57:27.528 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+kotlin-logging: initializing... active logger factory: Slf4jLoggerFactory
+03:57:28.685 INFO  Application - Application started in 1.921 seconds.
+03:57:28.719 INFO  Application - Премии уже есть в БД, импорт не нужен
+03:57:29.462 INFO  Application - Responding at http://0.0.0.0:8080
+03:58:37.480 INFO  Application - POST /login -> 401 Unauthorized [localhost, NobelClientApp/1.0 (student project; Android)]
+03:58:56.148 INFO  Application - POST /login -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:58:56.367 INFO  Application - GET /prizes -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:21.382 INFO  Application - GET /prizes?year=2023&category=physics -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:30.552 INFO  Application - GET /prizes?year=2023&category=physics -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:30.751 INFO  Application - GET /users/me/prizes -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:42.347 INFO  Application - POST /users/me/prizes/8 -> 201 Created [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:53.550 INFO  Application - GET /prizes -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:56.694 INFO  Application - GET /prizes?year=2024&category=chemistry -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+03:59:56.927 INFO  Application - GET /users/me/prizes -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+04:00:07.698 INFO  Application - POST /users/me/prizes/6 -> 201 Created [localhost, NobelClientApp/1.0 (student project; Android)]
+04:00:11.748 INFO  Application - GET /users/me -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]
+04:00:11.984 INFO  Application - GET /users/me/prizes -> 200 OK [localhost, NobelClientApp/1.0 (student project; Android)]

@@ -1,0 +1,19 @@
+$ curl -s -i -X POST http://localhost:8080/login -H 'Content-Type: application/json' -d '{"username":"student","password":"student123"}'
+HTTP/1.1 200 OK
+Content-Length: 313
+Content-Type: application/json
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJub2JlbC1zZXJ2ZXIiLCJhdWQiOiJub2JlbC1jbGllbnRzIiwidXNlcklkIjoxLCJ1c2VybmFtZSI6InN0dWRlbnQiLCJyb2xlIjoidXNlciIsImV4cCI6MTc5MjYzMjEzN30.Z6kaNW7UHAya4I3x9N5QgV196l9d63T4CIcslfuAG2w",
+    "username": "student",
+    "role": "user",
+    "expiresIn": 1800
+}
+$ curl -s -i -X POST http://localhost:8080/login -H 'Content-Type: application/json' -d '{"username":"student","password":"wrong"}'
+HTTP/1.1 401 Unauthorized
+Content-Length: 66
+Content-Type: application/json
+
+{
+    "error": "Неверный логин или пароль"
+}

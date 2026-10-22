@@ -1,0 +1,8 @@
+$ curl -s -i -X POST http://localhost:8080/auth/login -H 'Content-Type: application/json' -d '{"username":"student","password":"qwerty"}'
+HTTP/1.1 401 Unauthorized
+Content-Length: 66
+Content-Type: application/json
+
+{
+    "error": "Неверный логин или пароль"
+}

@@ -1,0 +1,16 @@
+$ ./build/install/NobelServer/bin/NobelServer
+03:42:14.360 INFO  Application - Autoreload is disabled because the development mode is off.
+03:42:14.835 INFO  Application - Application started in 0.557 seconds.
+03:42:14.932 INFO  Application - Responding at http://0.0.0.0:8080
+03:42:15.195 INFO  Application - POST /auth/login -> 200 OK [localhost, curl/8.7.1]
+03:42:15.208 INFO  Application - POST /auth/login -> 401 Unauthorized [localhost, curl/8.7.1]
+03:42:15.234 INFO  Application - GET /prizes -> 401 Unauthorized [localhost, curl/8.7.1]
+03:42:15.253 INFO  Application - GET /prizes -> 401 Unauthorized [localhost, curl/8.7.1]
+03:42:15.272 INFO  Application - POST /auth/login -> 200 OK [localhost, curl/8.7.1]
+03:42:15.300 INFO  Application - GET /prizes -> 200 OK [localhost, curl/8.7.1]
+03:42:15.317 INFO  Application - POST /auth/login -> 200 OK [localhost, curl/8.7.1]
+03:42:15.337 INFO  Application - GET /prizes/2023/physics -> 200 OK [localhost, curl/8.7.1]
+03:42:15.352 INFO  Application - GET /prizes/1800/physics -> 404 Not Found [localhost, curl/8.7.1]
+03:42:15.369 INFO  Application - POST /auth/login -> 200 OK [localhost, curl/8.7.1]
+03:42:15.382 INFO  Application - GET /prizes/2024/chemistry/laureates -> 200 OK [localhost, curl/8.7.1]
+03:42:15.393 INFO  Application - GET /prizes/2024/chemistry/laureates -> 401 Unauthorized [localhost, curl/8.7.1]

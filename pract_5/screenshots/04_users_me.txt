@@ -1,0 +1,13 @@
+$ TOKEN=$(curl -s -X POST http://localhost:8080/login -H "Content-Type: application/json" -d "{\"username\":\"student\",\"password\":\"student123\"}" | jq -r .token)
+
+$ curl -s -i http://localhost:8080/users/me -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 200 OK
+Content-Length: 87
+Content-Type: application/json
+
+{
+    "id": 1,
+    "username": "student",
+    "role": "user",
+    "favoritesCount": 0
+}

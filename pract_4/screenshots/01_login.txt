@@ -1,0 +1,11 @@
+$ curl -s -i -X POST http://localhost:8080/auth/login -H 'Content-Type: application/json' -d '{"username":"student","password":"student123"}'
+HTTP/1.1 200 OK
+Content-Length: 298
+Content-Type: application/json
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJub2JlbC1zZXJ2ZXIiLCJhdWQiOiJub2JlbC1jbGllbnRzIiwidXNlcm5hbWUiOiJzdHVkZW50Iiwicm9sZSI6InVzZXIiLCJleHAiOjE3OTI2MzE1MzV9.2Phvpzdtsyc--EyP80VGh6VAoa_CmqVm9lxHp94sElc",
+    "username": "student",
+    "role": "user",
+    "expiresIn": 1800
+}

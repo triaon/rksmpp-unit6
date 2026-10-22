@@ -1,0 +1,34 @@
+$ TOKEN=$(curl -s -X POST http://localhost:8080/login -H "Content-Type: application/json" -d "{\"username\":\"student\",\"password\":\"student123\"}" | jq -r .token)
+
+$ curl -s -i -X POST http://localhost:8080/users/me/prizes/8 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 201 Created
+Content-Length: 76
+Content-Type: application/json
+
+{
+    "message": "Премия 8 добавлена в избранное"
+}
+$ curl -s -i -X POST http://localhost:8080/users/me/prizes/6 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 201 Created
+Content-Length: 76
+Content-Type: application/json
+
+{
+    "message": "Премия 6 добавлена в избранное"
+}
+$ curl -s -i -X POST http://localhost:8080/users/me/prizes/8 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 409 Conflict
+Content-Length: 62
+Content-Type: application/json
+
+{
+    "error": "Премия 8 уже в избранном"
+}
+$ curl -s -i -X POST http://localhost:8080/users/me/prizes/999 -H "Authorization: Bearer $TOKEN"
+HTTP/1.1 404 Not Found
+Content-Length: 55
+Content-Type: application/json
+
+{
+    "error": "Премия 999 не найдена"
+}
