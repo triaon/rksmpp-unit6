@@ -51,7 +51,7 @@ profile = dev.GattProfile(services=[dev.GattService(
                        permissions=C.PERMISSION_READ, callback_id=CB_ID)])])
 device = dev.GattDevice(
     endpoint=ep.Endpoint(target='127.0.0.1:%d' % port),
-    advertisement=dev.Advertisement(device_name=sys.argv[1] if len(sys.argv) > 1 else 'Пульсометр (виртуальный)',
+    advertisement=dev.Advertisement(device_name=sys.argv[1] if len(sys.argv) > 1 else 'HR Sensor (virtual)',
                                     connection_mode=dev.Advertisement.CONNECTION_MODE_UNDIRECTED,
                                     discovery_mode=dev.Advertisement.DISCOVERY_MODE_GENERAL),
     profile=profile)

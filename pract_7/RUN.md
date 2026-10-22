@@ -22,4 +22,4 @@ L=~/Library/Android/sdk/emulator/lib; mkdir -p tools/gen
 .venv/bin/python tools/virtual_hr_sensor.py
 ```
 
-В приложении нажать «Начать сканирование» → «Пульсометр (виртуальный)» → пульс обновляется раз в секунду.
+В приложении нажать «Начать сканирование» → «HR Sensor (virtual)» → пульс обновляется раз в секунду.
